@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Julian Pallinger"
-  avatar : "/assets/images/woodpath.jpg"
+  avatar : "/assets/images/profile.jpg"
   bio    : "Just another human being trying to make sense of it all."
   links:
     - label: "Website"
@@ -108,6 +108,14 @@ defaults:
 category_archive:
   type: liquid
   path: /categories/
+  values:
+    layout: single
+    author_profile: false
+    read_time: true
 tag_archive:
   type: liquid
   path: /tags/
+  values:
+    layout: single
+    author_profile: false
+    read_time: true
