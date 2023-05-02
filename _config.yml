@@ -58,20 +58,17 @@ plugins:
 author:
   name   : "Julian Pallinger"
   avatar : "/assets/images/profile.jpg"
-  bio    : "Just another human being trying to make sense of it all."
+  bio    : "I try coming back to earth, with some taste of what clouds taste like. For work, I contribute to sustainable economic transformation within the capitalist machine."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/JulianPallinger"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/jul-pal"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/julian-pallinger/"
 
 footer:
   links:
@@ -81,9 +78,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/julian-pallinger/"
 
 defaults:
   # _posts
