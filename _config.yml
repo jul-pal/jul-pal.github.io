@@ -24,7 +24,8 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+#remote_theme: mmistakes/minimal-mistakes
+theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /home
 paginate: 5 # amount of posts to show
@@ -58,7 +59,7 @@ plugins:
 author:
   name   : "Julian Pallinger"
   avatar : "/assets/images/profile.jpg"
-  bio    : "Just another human trying to make sense of it all"
+  bio    : "Tinkering through existence"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
