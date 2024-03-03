@@ -14,13 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Holzwege
+subtitle: An investigation of loose ends and new beginnings
 email: julpal@connect.hku.hk
 description: >- # this means to ignore newlines until "baseurl:"
-  This site is an exploration of flows, of people, goods, capital, and ideas. 
+  This site is an exploration of flows: Of people, goods, capital, and ideas. 
 twitter_username: username
-github_username: username
-minimal_mistakes_skin: dirt
+github_username: jul-pal
+minimal_mistakes_skin: contrast
 search: true
+logo: "/assets/images/woodpath.jpg"
 
 # Build settings
 markdown: kramdown
@@ -61,9 +63,6 @@ author:
   avatar : "/assets/images/profile.jpg"
   bio    : "Tinkering through existence"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/JulianPallinger"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jul-pal"
@@ -73,9 +72,6 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
